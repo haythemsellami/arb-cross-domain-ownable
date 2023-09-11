@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-interface CrossDomainOwnable {
+interface ICrossDomainOwnable {
     /// @notice Allows for ownership to be transferred with specifying the locality.
     /// @param _owner   The new owner of the contract.
     /// @param _isLocal Configures the locality of the ownership.

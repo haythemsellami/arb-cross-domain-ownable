@@ -1,6 +1,6 @@
 ## Arbitrum CrossDomainOwnable COntract
 
-A smart contract for Arbitrum that provides simular features to (Optimism CrossDomainOwnable3)[https://github.com/ethereum-optimism/optimism/blob/develop/packages/contracts-bedrock/src/L2/CrossDomainOwnable3.sol].
+A smart contract for Arbitrum that provides simular features to [Optimism CrossDomainOwnable3](https://github.com/ethereum-optimism/optimism/blob/develop/packages/contracts-bedrock/src/L2/CrossDomainOwnable3.sol).
 
 ## Usage
 
